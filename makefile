@@ -18,4 +18,4 @@ run:
 # remove temp files
 
 clean:
-  rm -f *.out *.o 
+	rm -f *.out *.o 
